@@ -1,8 +1,7 @@
 name: pauln10v_rick_and_morty_api
 description: "REST API client lib for https://rickandmortyapi.com/"
-version: 0.0.3
-# pub.dev wants at least one of these; an empty `homepage:` is not valid.
-repository: https://github.com/<your-account>/<your-repo>
+version: 0.0.4
+repository: https://github.com/Paul-N/PaulN10V.RickAndMortyApi.Dart
 
 environment:
   sdk: ^3.13.5
