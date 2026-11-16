@@ -1,5 +1,5 @@
 import 'package:http/http.dart' as http;
-import 'package:flutter_test/flutter_test.dart';
+import 'package:test/test.dart';
 import 'package:pauln10v_rick_and_morty_api/service/rickandmorty_rest_api.dart';
 
 void main() {
